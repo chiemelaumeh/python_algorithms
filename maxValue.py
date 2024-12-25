@@ -12,3 +12,4 @@ callSolution = Solution()
 
 
 print(callSolution.maxValue([1,2,3,4,9,24,6,1,6,8,5]))
+
